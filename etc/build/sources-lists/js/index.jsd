@@ -7,8 +7,7 @@ md/packet-handler.js
 md/client.js
 
 
-md/redis/resp/data-type.js
-md/redis/resp/sign.js
+md/redis/resp/terminal.js
 md/redis/resp/packet.js
 md/redis/resp/resp.js
 
