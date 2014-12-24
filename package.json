@@ -3,7 +3,7 @@
   "main": "bin/index.js",
   "version" : "0.0.0",
   "dependencies": {
-    "livetex-tools": "*"
+    "livetex-tools": "0.3.21"
   },
   "repository": {
     "type": "git",
