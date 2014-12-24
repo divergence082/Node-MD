@@ -2,5 +2,6 @@ Makefile
 *.iml
 .idea
 ./bin
+./etc
 ./externs
 ./node_modules
