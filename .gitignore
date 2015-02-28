@@ -1,7 +1,8 @@
-Makefile
+
 *.iml
 .idea
-./bin
-./etc
-./externs
-./node_modules
+
+bin/
+externs/
+
+node_modules/

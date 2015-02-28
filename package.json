@@ -1,9 +1,17 @@
 {
   "name": "node-md",
   "main": "bin/index.js",
-  "version" : "0.0.0",
+  "version" : "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/divergence082/Node-MD.git"
+  },
+  "devDependencies": {
+    "del": "1.1.1",
+    "gulp": "3.8.11",
+    "gulp-gjslint": "0.1.4",
+    "gulp-externs": "0.0.8",
+    "gulp-closure-compiler": "0.2.16",
+    "gulp-file-include": "0.8.0"
   }
 }
